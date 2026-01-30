@@ -19,7 +19,7 @@ body {
     grid-template-rows: 100px 100px 100px;
     row-gap: 10px;
     column-gap: 20px;
-    background-color: aqua;
+    background-color: red;
     padding: 24px;
     border-radius: 12px;
 }
